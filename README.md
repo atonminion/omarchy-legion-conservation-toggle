@@ -6,8 +6,8 @@ A waybar module for [Omarchy](https://omarchy.org/) that adds a one-click toggle
 
 | State | Icon | Behavior |
 |-------|------|----------|
-| Conservation ON | 󰌪 (leaf) | Charging limited to ~80% |
-| Conservation OFF | 󱐋 (lightning) | Full charging to 100% |
+| Conservation ON | ```󰌪``` (leaf)| Charging limited to ~80% |
+| Conservation OFF | ```󱐋``` (lightning) | Full charging to 100% |
 
 Clicking the icon opens a floating terminal with an Omarchy-styled TUI confirmation dialog powered by [gum](https://github.com/charmbracelet/gum).
 
