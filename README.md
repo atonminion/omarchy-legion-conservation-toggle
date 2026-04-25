@@ -15,8 +15,7 @@ Clicking the icon opens a floating terminal with an Omarchy-styled TUI confirmat
 
 - **Omarchy** — [omarchy.org](https://omarchy.org/)
 - **Lenovo Legion laptop** with `ideapad_acpi` kernel module loaded
-- **gum** — `sudo pacman -S gum` (Charm TUI toolkit)
-- **Python 3** — for patching the waybar config (pre-installed on Arch)
+- **Python 3** — for patching the waybar config 
 
 Verify the sysfs path exists before installing:
 
